@@ -1,6 +1,9 @@
 # Split App - Expense Splitting Application
 
 A full-stack expense-splitting application that helps groups of people split expenses fairly and calculate who owes money to whom. Built with React frontend and Express backend using local JSON storage.
+App is deployed on Railway.
+![image](https://github.com/user-attachments/assets/6b9e9dc7-9209-40b1-8cdd-3c6ab112cb8e)
+
 
 
 ![image](https://github.com/user-attachments/assets/27054cd8-e24f-4db8-b903-cd00ec5e3bff)
